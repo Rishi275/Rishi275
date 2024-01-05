@@ -24,7 +24,7 @@
   </a>
 </div>
 
-### Languages and Tools:
+### Languages:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,flutter,dart,firebase)](https://skillicons.dev)
 ### Tools :
 [![My Skills](https://skillicons.dev/icons?i=github,git,figma,vscode,androidstudio)](https://skillicons.dev)
