@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Rishi Prasad Maurya</h1>
- <pre>  </pre> <h2 align="left">Full Stack Developer</h2>
+ <pre>  </pre> <h2 align="left">Frontend Developer</h2>
 
 - ⚡  My aim to help Brands and create Brands with my Skills
 - 🔭 I’m currently working on Flutter
