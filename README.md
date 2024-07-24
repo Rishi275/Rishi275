@@ -7,6 +7,7 @@
 - 📫 How to reach me: automationrishiald@gmail.com
 - ❤️ My website: https://rishiai.world
 - 😄 First Game: https://rishigame1.netlify.app/
+- 😄 Tencent-Reimagine: https://tencent-reimagine.vercel.app/)
   
 ### Connect with me:
 <div id="badges">
