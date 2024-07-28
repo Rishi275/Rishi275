@@ -26,7 +26,7 @@
 </div>
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,reactjs,tailwindcss,nodejs,flutter,dart,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nodejs,flutter,dart,firebase)](https://skillicons.dev)
 ### Tools :
 [![My Skills](https://skillicons.dev/icons?i=github,git,figma,vscode,androidstudio)](https://skillicons.dev)
 
