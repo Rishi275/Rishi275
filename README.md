@@ -38,6 +38,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi275&theme=dark)
 
+### Most Used Language 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 ⭐️ From [rishi275](https://github.com/rishi275)
