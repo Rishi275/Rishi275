@@ -28,11 +28,11 @@
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nodejs,flutter,dart,firebase)](https://skillicons.dev)
 
-### Streak 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
 ### Tools :
 [![My Skills](https://skillicons.dev/icons?i=github,git,figma,vscode,androidstudio)](https://skillicons.dev)
+
+### Streak 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishi275&show_icons=true&theme=dark)
 
@@ -41,7 +41,7 @@
 ### Most Used Language 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/yourusername&title=Profile%20Views)](https://hits.seeyoufarm.com)
 
 
