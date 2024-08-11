@@ -42,6 +42,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/yourusername&title=Profile%20Views)](https://hits.seeyoufarm.com)
+
 
 <br>
 ⭐️ From [rishi275](https://github.com/rishi275)
