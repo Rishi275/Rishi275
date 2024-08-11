@@ -27,6 +27,10 @@
 
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nodejs,flutter,dart,firebase)](https://skillicons.dev)
+
+### Streak 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ### Tools :
 [![My Skills](https://skillicons.dev/icons?i=github,git,figma,vscode,androidstudio)](https://skillicons.dev)
 
