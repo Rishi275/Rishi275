@@ -34,12 +34,12 @@
 ### Streak 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishi275&show_icons=true&theme=dark)
+### Stats
+![Rishi GitHub stats](https://github-readme-stats.vercel.app/api?username=rishi275&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi275&theme=dark)
 
-### Most Used Language 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/yourusername&title=Profile%20Views)](https://hits.seeyoufarm.com)
