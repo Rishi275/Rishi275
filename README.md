@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend 
 - 📫 How to reach me: automationrishiald@gmail.com
-- ❤️ My website: https://rishiai.world
+- ❤️ My website: https://rishiai.vercel.app/
 - 😄 First Game: https://rishigame1.netlify.app/
 - 😄 Tencent-Reimagine: https://tencent-reimagine.vercel.app/)
   
