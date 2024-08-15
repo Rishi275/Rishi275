@@ -32,7 +32,7 @@
 [![My Skills](https://skillicons.dev/icons?i=github,git,figma,vscode,androidstudio)](https://skillicons.dev)
 
 ### Streak 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=dark)](https://git.io/streak-stats)
 
 ### Stats
 ![Rishi GitHub stats](https://github-readme-stats.vercel.app/api?username=rishi275&show_icons=true&theme=dark)
