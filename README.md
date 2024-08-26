@@ -8,6 +8,7 @@
 - ❤️ My website: https://rishiai.vercel.app/
 - 😄 First Game: https://rishigame1.netlify.app/
 - 😄 Tencent-Reimagine: https://tencent-reimagine.vercel.app/)
+- 😄 Job portal- website(react js): https://freshers.vercel.app/)
   
 ### Connect with me:
 <div id="badges">
