@@ -43,6 +43,12 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishi275&theme=react-dark)
 
+### Contribution Stats:
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=rishi275&theme=dark)
+
+### Achievements:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishi275&theme=darkhub&margin-w=15&no-bg=true&no-frame=true)
+
 ### Profile Views Counter:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rishi275&title=Profile%20Views)](https://hits.seeyoufarm.com)
 
