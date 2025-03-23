@@ -38,6 +38,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi275&theme=dark)
 
+### More Analytics:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishi275&theme=dark)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishi275&theme=react-dark)
+
 ### Profile Views Counter:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rishi275&title=Profile%20Views)](https://hits.seeyoufarm.com)
 
