@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Prasad Maurya</h1>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h2 align="left">Frontend Developer</h2>
 
 - ⚡  My aim is to help Brands and create Brands with my Skills  
