@@ -1,7 +1,7 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm Rishi Prasad Maurya</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h2 align="left">Frontend Developer</h2>
+<h2 align="left">Fullstack Developer</h2>
 
 - ⚡ My aim is to help Brands and create Brands with my Skills  
 - 🔭 I’m currently working on Flutter  
@@ -11,6 +11,7 @@
 - 😄 First Game: [https://rishigame1.netlify.app/](https://rishigame1.netlify.app/)  
 - 😄 Tencent-Reimagine: [https://tencent-reimagine.vercel.app/](https://tencent-reimagine.vercel.app/)  
 - 😄 Job portal - website (React JS): [https://freshers.vercel.app/](https://freshers.vercel.app/)  
+- 😄 AI World - website (React JS): [https://metaglobal.in](https://metaglobal.in)  
 - 😄 Divyam - website (Nextjs 15): [https://divyam.com](https://divyam.com)  
 
 ### Connect with me:
@@ -30,7 +31,7 @@
 </div>
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,flutter,dart,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mogodb,flutter,dart,firebase)](https://skillicons.dev)
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=github,git,figma,vscode,androidstudio)](https://skillicons.dev)
