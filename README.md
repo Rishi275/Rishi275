@@ -48,31 +48,38 @@
 ### Tools & Platforms
 ![My Skills](https://skillicons.dev/icons?i=github,git,figma,vscode,androidstudio,vercel,netlify&perline=7)
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishi275&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi275&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishi275&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi275&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi275&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi275&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="40%" />
 </div>
 
-### Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishi275&theme=radical&hide_border=true)
-
-### Contribution Stats
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rishi275&theme=radical&hide_border=true" alt="Contributor Stats" width="60%" />
-</div>
+### 📈 Contribution Graph
+![Rishi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi275&theme=radical&hide_border=true&area=true)
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishi275&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)
+![Rishi's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rishi275&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)
+
+### 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 🔥 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 📌 Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishi275&repo=your-repo-name&theme=radical&hide_border=true)](https://github.com/Rishi275/your-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishi275&repo=your-repo-name&theme=radical&hide_border=true)](https://github.com/Rishi275/your-repo-name)
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=rishi275&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Rishi275&color=blueviolet&style=for-the-badge)
 
 ---
 
@@ -81,7 +88,12 @@
 </div>
 
 <div align="center">
-  <b>⭐ From <a href="https://github.com/rishi275">rishi275</a></b>
+  <h3>⚡ Fun Fact</h3>
+  <p>The first computer virus was created in 1983 and was called the "Elk Cloner"</p>
+</div>
+
+<div align="center">
+  <b>⭐ From <a href="https://github.com/Rishi275">Rishi275</a></b>
   <br>
   <i>Let's build something amazing together!</i>
 </div>
