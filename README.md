@@ -1,59 +1,87 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+
 <h1 align="center">Hi 👋, I'm Rishi Prasad Maurya</h1>
+<h3 align="center">Fullstack Developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h2 align="left">Fullstack Developer</h2>
 
-- ⚡ My aim is to help Brands and create Brands with my Skills  
-- 🔭 I’m currently working on Flutter  
-- 🌱 I’m currently working on Backend with node js , express
-- 👨‍💻 How to reach me: automationrishiald@gmail.com  
-- ❤️ My Portfolio: [https://rishiai.vercel.app/](https://rishiai.vercel.app/)  
-- 😄 First Game: [https://rishigame1.netlify.app/](https://rishigame1.netlify.app/)  
-- 😄 Tencent-Reimagine: [https://tencent-reimagine.vercel.app/](https://tencent-reimagine.vercel.app/)  
-- 😄 Job portal - website (React JS): [https://freshers.vercel.app/](https://freshers.vercel.app/)  
-- 😄 AI World - website (React JS): [https://metaglobal.in](https://metaglobal.in)  
-- 😄 Divyam - website (Nextjs 15): [https://divyam.com](https://divyam.com)  
+## 🚀 About Me
 
-### Connect with me:
-<div id="badges">
-    <a href="https://www.linkedin.com/in/rishi-prasad-maurya-706802250/">
-        <img src="https://img.shields.io/badge/Linkedin-cyan?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
-    </a>
-    <a href="https://github.com/Rishi275">
-        <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UC2QyEs_S-nuUKzJgh0alx7Q">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-    </a>
-    <a href="https://www.instagram.com/t_a_r_rishi/?igshid=YmMyMTA2M2Y%3D">
-        <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
+- ⚡ My aim is to help Brands and create Brands with my Skills
+- 🔭 I'm currently working on **Flutter & Node.js Backend Development**
+- 🌱 I'm currently learning **Advanced Backend Architecture**
+- 👨‍💻 Check out my portfolio: [rishiai.vercel.app](https://rishiai.vercel.app/)
+- 📫 How to reach me: **automationrishiald@gmail.com**
+
+## 🎮 My Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [First Game](https://rishigame1.netlify.app/) | Interactive browser game | HTML/CSS/JS |
+| [Tencent-Reimagine](https://tencent-reimagine.vercel.app/) | Tencent redesign concept | React |
+| [Job Portal](https://freshers.vercel.app/) | Job search platform for freshers | React JS |
+| [AI World](https://metaglobal.in) | AI-focused informational website | React JS |
+| [Divyam](https://divyam.com) | Business website | Next.js 15 |
+
+## 📱 Connect with me
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/rishi-prasad-maurya-706802250/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Rishi275">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC2QyEs_S-nuUKzJgh0alx7Q">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  <a href="https://www.instagram.com/t_a_r_rishi/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 
-### Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mogodb,flutter,dart,firebase)](https://skillicons.dev)
+## 🛠️ Tech Stack
 
-### Tools:
-[![My Skills](https://skillicons.dev/icons?i=github,git,figma,vscode,androidstudio)](https://skillicons.dev)
+### Languages & Frameworks
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,flutter,dart,firebase&perline=6)
 
-### Stats:
-![Rishi GitHub stats](https://github-readme-stats.vercel.app/api?username=rishi275&show_icons=true&theme=dark)
+### Tools & Platforms
+![My Skills](https://skillicons.dev/icons?i=github,git,figma,vscode,androidstudio,vercel,netlify&perline=7)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi275&theme=dark)
+## 📊 GitHub Analytics
 
-### More Analytics:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishi275&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishi275&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi275&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishi275&theme=react-dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi275&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="40%" />
+</div>
 
-### Contribution Stats:
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=rishi275&theme=dark)
+### Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishi275&theme=radical&hide_border=true)
 
-### Achievements:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishi275&theme=darkhub&margin-w=15&no-bg=true&no-frame=true)
+### Contribution Stats
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=rishi275&theme=radical&hide_border=true" alt="Contributor Stats" width="60%" />
+</div>
 
-### Profile Views Counter:
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rishi275&title=Profile%20Views)](https://hits.seeyoufarm.com)
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishi275&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)
 
-<br>
-⭐ From [rishi275](https://github.com/rishi275)
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=rishi275&color=blueviolet&style=for-the-badge)
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <b>⭐ From <a href="https://github.com/rishi275">rishi275</a></b>
+  <br>
+  <i>Let's build something amazing together!</i>
+</div>
