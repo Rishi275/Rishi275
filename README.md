@@ -19,8 +19,8 @@
 | [First Game](https://rishigame1.netlify.app/) | Interactive browser game | HTML/CSS/JS |
 | [Tencent-Reimagine](https://tencent-reimagine.vercel.app/) | Tencent redesign concept | React |
 | [Job Portal](https://freshers.vercel.app/) | Job search platform for freshers | React JS |
-| [AI World](https://metaglobal.in) | AI-focused informational website | React JS |
-| [Divyam](https://divyam.com) | Business website | Next.js 15 |
+| [Divyam](https://divyam.com) | Business website | Next.js 16/PWA |
+| [MetaGlobal](https://metaglobal.in) | Build Website From Zero Code |  Next.js 16/PWA |
 
 ## 📱 Connect with me
 
