@@ -62,10 +62,6 @@
 ![Rishi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi275&theme=radical&hide_border=true&area=true)
 
 
-## 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishi275&repo=your-repo-name&theme=radical&hide_border=true)](https://github.com/Rishi275/JOB-PORTAL)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishi275&repo=your-repo-name&theme=radical&hide_border=true)](https://github.com/Rishi275/next-app-pwa)
-
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rishi275&color=blueviolet&style=for-the-badge)
