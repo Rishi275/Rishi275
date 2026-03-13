@@ -1,4 +1,3 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
 <h1 align="center">Hi 👋, I'm Rishi Prasad Maurya</h1>
 <h3 align="center">Fullstack Developer from India</h3>
@@ -62,20 +61,10 @@
 ### 📈 Contribution Graph
 ![Rishi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi275&theme=radical&hide_border=true&area=true)
 
-### 🏆 GitHub Trophies
-![Rishi's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rishi275&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)
-
-### 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## 🔥 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishi275&repo=your-repo-name&theme=radical&hide_border=true)](https://github.com/Rishi275/your-repo-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishi275&repo=your-repo-name&theme=radical&hide_border=true)](https://github.com/Rishi275/your-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishi275&repo=your-repo-name&theme=radical&hide_border=true)](https://github.com/Rishi275/JOB-PORTAL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishi275&repo=your-repo-name&theme=radical&hide_border=true)](https://github.com/Rishi275/next-app-pwa)
 
 ## 👀 Profile Views
 
